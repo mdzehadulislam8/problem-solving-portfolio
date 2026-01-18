@@ -14,6 +14,7 @@ void solve(){
             st.pop();
         }
     }
+    
     string ans;
     while(st.size()){
         ans+=st.top();
